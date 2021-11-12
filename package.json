@@ -1,0 +1,22 @@
+{
+  "name": "a11y-statement-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Abbott (@abbott567)",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "colors": "^1.4.0",
+    "date-fns": "^2.25.0",
+    "diff": "^5.0.0",
+    "fast-diff": "^1.2.0",
+    "got": "^11.8.2",
+    "js-better-fs": "^1.0.0",
+    "slugify": "^1.6.2",
+    "standard": "^16.0.4"
+  }
+}
